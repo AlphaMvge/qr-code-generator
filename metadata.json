@@ -1,0 +1,6 @@
+{
+  "name": "QR Code Generator",
+  "description": "A customizable, high-resolution QR code generator with custom styles, logos, frames, and cross-platform installation support for Windows and Arch Linux.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
